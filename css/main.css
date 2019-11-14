@@ -78,10 +78,13 @@ a:hover {
   background-color: #cc1465;
  }
 
-
 footer {
   display: block;
   text-align: center;
   background-color: #ffe500;
   padding: .6em;
   }
+
+main {
+  margin: 0 .75em;
+}
