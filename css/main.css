@@ -14,7 +14,7 @@ header {
   display: block;
   text-align: center;
   background-color: #ffe500;
-  }
+}
 
 h1 {
   font-family: "Sigmar One", cursive;
@@ -46,7 +46,7 @@ li {
   display: inline-block;
   list-style-type: none;
   font-size: 1.125rem;
-  margin: 0
+  margin: 0;
 }
 
 ul {
@@ -56,7 +56,7 @@ ul {
 
 body {
   background-color: #fff;
-  margin: 0
+  margin: 0;
 }
 
 h2 {
@@ -76,14 +76,14 @@ a:hover {
 
 .current {
   background-color: #cc1465;
- }
+}
 
 footer {
   display: block;
   text-align: center;
   background-color: #ffe500;
   padding: .6em;
-  }
+}
 
 main {
   margin: 0 .75em;
